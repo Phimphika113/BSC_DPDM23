@@ -30,18 +30,24 @@ Final Score = Score * %attendance
 [Code](https://github.com/Phimphika113/BSC_DPDM23/blob/main/midterm_bscdpdm23.ipynb)
   
 ## Homework 🧩🪄📚
-| Homework | 📒 | ลิงก์ |
-| ---- | ---- | ---- |
-| 1 | Association_Rules |[Code](https://github.com/Phimphika113/BSC_DPDM23/blob/main/Copy_of_Frequent_Patterns_(Association_Rules).ipynb) & [Presentation](https://github.com/Phimphika113/BSC_DPDM23/blob/main/Marketbasket_compressed%20(3).pdf)| Group ทองประเสริฐ 
-| 2 | Decision Tree |[ทำมือ](https://github.com/Phimphika113/BSC_DPDM23/blob/main/Hw2_643020511-3_%E0%B8%9E%E0%B8%B4%E0%B8%A1%E0%B8%9E%E0%B8%B4%E0%B8%81%E0%B8%B2-%E0%B8%A2%E0%B8%AD%E0%B8%94%E0%B8%A8%E0%B8%A3%E0%B8%B5.pdf)| 
-| 3 |กำหนด Paramiter Decision Tree  : min_samples_leaf,max_features | [Code](https://github.com/Phimphika113/BSC_DPDM23/blob/main/Classification.ipynb) & [Presentation](https://github.com/Phimphika113/BSC_DPDM23/blob/main/Presentation_HW3.pdf)| Group ทองประเสริฐ + I hate monday
-| 4 | กำหนด Paramiter Decision Tree  : min_samples_leaf,max_features | [ทำมือ](https://github.com/Phimphika113/BSC_DPDM23/blob/main/Hw4.pdf) & [Presentation](https://github.com/Phimphika113/BSC_DPDM23/blob/main/Presentation_HW4.pd)| Group ทองประเสริฐ + I hate monday
-| 5 | เพอร์เซปตรอน | [ทำมือ](https://github.com/Phimphika113/BSC_DPDM23/blob/main/HW5_%E0%B9%80%E0%B8%9E%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B9%80%E0%B8%8B%E0%B8%AD%E0%B8%9B%E0%B8%95%E0%B8%AD%E0%B8%99%20%26%20accuracy%20%20.pdf)|
+| Homework | 📒 | ลิงก์ | Group |
+| ---- | ---- | ---- | ---- |
+| 1 | Association_Rules |[Code](https://github.com/Phimphika113/BSC_DPDM23/blob/main/Copy_of_Frequent_Patterns_(Association_Rules).ipynb) & [Presentation](https://github.com/Phimphika113/BSC_DPDM23/blob/main/Marketbasket_compressed%20(3).pdf)| Group ทองประเสริฐ |
+| 2 | Decision Tree |[ทำมือ](https://github.com/Phimphika113/BSC_DPDM23/blob/main/Hw2_643020511-3_%E0%B8%9E%E0%B8%B4%E0%B8%A1%E0%B8%9E%E0%B8%B4%E0%B8%81%E0%B8%B2-%E0%B8%A2%E0%B8%AD%E0%B8%94%E0%B8%A8%E0%B8%A3%E0%B8%B5.pdf)| - |
+| 3 |กำหนด Paramiter Decision Tree  : min_samples_leaf,max_features | [Code](https://github.com/Phimphika113/BSC_DPDM23/blob/main/Classification.ipynb) & [Presentation](https://github.com/Phimphika113/BSC_DPDM23/blob/main/Presentation_HW3.pdf)| Group ทองประเสริฐ + I hate monday |
+| 4 | กำหนด Paramiter Decision Tree  : min_samples_leaf,max_features | [ทำมือ](https://github.com/Phimphika113/BSC_DPDM23/blob/main/Hw4.pdf) & [Presentation](https://github.com/Phimphika113/BSC_DPDM23/blob/main/Presentation_HW4.pd)| Group ทองประเสริฐ + I hate monday |
+| 5 | เพอร์เซปตรอน | [ทำมือ](https://github.com/Phimphika113/BSC_DPDM23/blob/main/HW5_%E0%B9%80%E0%B8%9E%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B9%80%E0%B8%8B%E0%B8%AD%E0%B8%9B%E0%B8%95%E0%B8%AD%E0%B8%99%20%26%20accuracy%20%20.pdf)| - |
 ## Slide📒🧸
 - [01Intro](https://drive.google.com/file/d/1lL2eJaf9RgNOtAUjm8HoEomdoO4vW-uQ/view?usp=drive_link)
 - [02Data](https://drive.google.com/file/d/1mz0qg__DsQYehVoquWDi7j4nqN6lTc1R/view?usp=drive_link)
+
+  <img width="597" alt="Screenshot 2024-03-21 024312" src="https://github.com/Phimphika113/BSC_DPDM23/assets/137043670/05309bb7-9cb3-44b8-8b7c-869f9875f63d">
+
 - [03Preprocessing](https://drive.google.com/file/d/1nUML8eHBY6yqRcwJA5sMnqX7YKdtwtkf/view?usp=drive_link)
 - [06FPBasic](https://drive.google.com/file/d/1WkMzJs7Tf8przeFvBEVGM6C4PlBKaoSO/view?usp=drive_link)
+
+<img width="600" alt="Screenshot 2024-03-21 025029" src="https://github.com/Phimphika113/BSC_DPDM23/assets/137043670/d768a3f0-6ba3-47b5-b162-36e72f9c90e5"><img width="590" alt="Screenshot 2024-03-21 142605" src="https://github.com/Phimphika113/BSC_DPDM23/assets/137043670/c08bbe93-89d1-4c2a-9190-4c395775eca0">
+
 - [08ClassBasic](https://drive.google.com/file/d/1TXqzGU5RSJ_ODxt4Fqu2vhhkBw4m9QRS/view?usp=drive_link)
 - [09ClassAdvanced](https://drive.google.com/file/d/15K-MOGQc5fPhXIGGN5pafEkVloiGK0uw/view)
 - [10ClusBasic](https://drive.google.com/file/d/1aarTP90ifz0zUyS77RRdD4pJpzwCex8V/view?usp=drive_link)
